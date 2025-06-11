@@ -1,0 +1,14 @@
+artifact_uri: /Users/mustainbillah/Desktop/youtube-comment-sentiment-analysis/mlruns/313732038288543926/e1a3e18e31bb4da89b8b0a04e5243107/artifacts
+end_time: 1749632209019
+entry_point_name: ''
+experiment_id: '313732038288543926'
+lifecycle_stage: active
+run_id: e1a3e18e31bb4da89b8b0a04e5243107
+run_name: able-stag-969
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749632200543
+status: 3
+tags: []
+user_id: mustainbillah

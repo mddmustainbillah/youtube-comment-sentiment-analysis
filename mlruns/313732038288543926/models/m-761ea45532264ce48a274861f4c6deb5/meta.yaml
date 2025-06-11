@@ -1,0 +1,10 @@
+artifact_location: /Users/mustainbillah/Desktop/youtube-comment-sentiment-analysis/mlruns/313732038288543926/models/m-761ea45532264ce48a274861f4c6deb5/artifacts
+creation_timestamp: 1749632201486
+experiment_id: '313732038288543926'
+last_updated_timestamp: 1749632207377
+model_id: m-761ea45532264ce48a274861f4c6deb5
+model_type: null
+name: lgbm_model
+source_run_id: e1a3e18e31bb4da89b8b0a04e5243107
+status: 2
+status_message: null
